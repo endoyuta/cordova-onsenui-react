@@ -1,0 +1,7 @@
+node_modules
+.vscode
+platforms
+plugins
+www/assets
+www/bundle.js
+www/main.css
